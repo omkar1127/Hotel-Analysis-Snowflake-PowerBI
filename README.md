@@ -82,25 +82,6 @@ A **Medallion Architecture (Bronze, Silver, Gold layers)** approach is implement
   - Booking distribution by room type (Deluxe, Suite, Standard)  
 <img width="1385" height="782" alt="image" src="https://github.com/user-attachments/assets/fac759b7-db49-4dc3-96c8-638b39377c20" />
 
----
-
-## 📁 Project Structure
-
-Hotel-Data-Analysis/
-│
-├── data/
-│   ├── bronze/
-│   ├── silver/
-│   └── gold/
-│
-├── sql/
-│   └── medallion_architecture.sql
-│
-├── powerbi/
-│   └── dashboard.pbix
-│
-└── README.md
-
 
 ---
 
