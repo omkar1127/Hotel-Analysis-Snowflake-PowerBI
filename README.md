@@ -89,15 +89,15 @@ A **Medallion Architecture (Bronze, Silver, Gold layers)** approach is implement
 Hotel-Data-Analysis/
 │
 ├── data/
-│ ├── bronze/
-│ ├── silver/
-│ └── gold/
+│   ├── bronze/
+│   ├── silver/
+│   └── gold/
 │
 ├── sql/
-│ └── medallion_architecture.sql
+│   └── medallion_architecture.sql
 │
 ├── powerbi/
-│ └── dashboard.pbix
+│   └── dashboard.pbix
 │
 └── README.md
 
