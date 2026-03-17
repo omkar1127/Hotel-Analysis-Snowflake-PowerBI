@@ -66,13 +66,20 @@ A **Medallion Architecture (Bronze, Silver, Gold layers)** approach is implement
 ---
 
 ## 📊 Power BI Dashboard
-- Connected Power BI to Snowflake Gold tables  
-- Created interactive dashboards with:
-  - Revenue analysis  
-  - Booking trends  
-  - Occupancy insights  
-  - City-wise performance  
-  - Customer behavior insights
+- Connected Power BI to Snowflake Gold layer tables  
+- Designed an interactive dashboard to track key hotel performance metrics  
+- Included KPI cards for:
+  - Total Revenue  
+  - Average Booking Value  
+  - Total Guests  
+  - Total Bookings  
+- Built time-series visualizations for:
+  - Monthly Revenue trends  
+  - Monthly Booking trends  
+- Added analytical visuals for:
+  - Revenue distribution by city  
+  - Booking distribution by status (Confirmed, Cancelled, No-Show)  
+  - Booking distribution by room type (Deluxe, Suite, Standard)  
 <img width="1385" height="782" alt="image" src="https://github.com/user-attachments/assets/fac759b7-db49-4dc3-96c8-638b39377c20" />
 
 ---
@@ -98,10 +105,13 @@ Hotel-Data-Analysis/
 ---
 
 ## 📈 Key Insights
-- Identified peak booking periods  
-- Analyzed revenue contribution by cities  
-- Improved data quality through cleaning and validation  
-- Enabled efficient reporting using structured datasets  
+- Total revenue generated is **$577,347**, indicating strong overall performance  
+- Average booking value is **$334.11**, showing consistent customer spending  
+- Peak revenue observed around mid-2025 (~40K), followed by a gradual decline into 2026  
+- Booking volume peaked at **118 bookings/month**, then slightly decreased over time  
+- Certain cities (e.g., Lake John, East Michael) contribute the highest revenue  
+- Majority of bookings are **confirmed (728)**, but cancellations (521) and no-shows (475) are significant  
+- Deluxe and Suite room types generate slightly higher bookings compared to Standard  
 
 ---
 
